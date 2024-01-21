@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+    font-family: 'Rubik', sans-serif;
+}
+
+#header{
+     color: white;
+     background-color:rgb(225, 176, 255);
+     border-radius: 20px;
+     font-size: 30px;
+     border-style: solid;
+     border-color: white;
+     border-width: 2px;
+     width: 43%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Rubik', sans-serif;
+}
+
+#note{
+    font-size: 17px;
+    padding-top: 15px;
+}
+
+#status{
+    font-size: 20px;
+    font-family: 'Rubik', sans-serif !important;
+    border-radius: 9px !important;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    width: 20%;
+}
+
+canvas{
+background-color: white;
+margin-top: 100px;
+border-radius: 20px;
+}
